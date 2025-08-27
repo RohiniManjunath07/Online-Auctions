@@ -1,4 +1,5 @@
-🏷️ Online Auctions
+# 🏷️ Online Auctions
+
 Online Auctions is a modern and responsive online auction platform built with a React + Tailwind CSS frontend and powered by an Express.js backend.
 It aims to improve traditional auction systems by providing:
 ✨ A sleek and dynamic UI
@@ -31,10 +32,6 @@ Layer	Technology
 
 # Clone the repo
 git clone https://github.com/RohiniManjunath07/Online-Auctions.git
-
----
-
-# Extract Backend.zip if required
 
 ---
 
