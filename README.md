@@ -1,12 +1,57 @@
-# Online-Auctions
-Existing Online Auction Platforms may sometimes lack the responsiveness and real-time features that modern users expect.
-User interfaces on some platforms can be unintuitive and difficult to navigate for both buyers and sellers.
-Concerns regarding the security of payment processing and personal data can deter users from participating fully.
-There is a need for a modern platform that offers a responsive, user-friendly, and secure online auction environment.
-The platform will utilize React and tailwind for building an interactive and dynamic frontend user interface and Express.js will be employed to create a robust and efficient backend for handling server-side logic.
-Sellers will be able to list products with descriptions, images and starting bid prices, while Buyers will be able to browse listings, view product details, and place bids in real-time.
-The platform will incorporate secure payment gateway for processing transactions.
-Real-time bidding updates will be a core feature, ensuring users are immediately aware of bid changes.
-The platform will be designed with scalability in mind to accommodate a growing user base and data volume.
+🏷️ Online Auctions
+Online Auctions is a modern and responsive online auction platform built with a React + Tailwind CSS frontend and powered by an Express.js backend.
+It aims to improve traditional auction systems by providing:
+✨ A sleek and dynamic UI
+⚡ Real-time bidding updates
+🔒 Secure payment handling
+📈 Scalable architecture for future growth
+
+---
+
+🚀 Features
+- Real-time Bidding – Stay updated instantly as bids come in
+- Seller Dashboard – Manage listings with product details, images, and base price
+- Buyer Experience – Browse, explore, and place bids easily
+- Secure Payments – Integrated payment gateway for safe transactions
+- Responsive Design – Works smoothly across devices
+
+---
+
+⚙️ Scalable Backend – Robust Express.js server for efficiency
+
+🛠️ Tech Stack
+Layer	Technology
+🎨 Frontend	React, Tailwind CSS
+🖥️ Backend	Express.js
+💻 Language	JavaScript
+🔗 APIs	RESTful APIs + Real-time updates
+📦 Installation & Setup
+
+---
+
+# Clone the repo
+git clone https://github.com/RohiniManjunath07/Online-Auctions.git
+
+---
+
+# Extract Backend.zip if required
+
+---
+
+# Run the servers
+
+Frontend:
+- cd frontend
+- npm run start
+
+Backend:
+- npm run start
 
 
+👉 Default: Frontend → http://localhost:3000 | Backend → http://localhost:5000
+
+# 🎮 Usage
+- Browse active auctions on the homepage
+- Sellers can create, edit, and manage listings
+- Buyers place bids and track them live
+- Payments complete securely after auction ends
